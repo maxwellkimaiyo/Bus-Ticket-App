@@ -1,0 +1,53 @@
+
+.text-iput{
+	
+  -fx-text-fill:#fff;
+	
+        
+}
+.text-iput1{
+	
+  -fx-text-fill:#FF0000;
+	
+        
+}
+.combobox-color{
+    -fx-prompt-text-fill: #fff;
+          -fx-text-color:#fff;
+	 -fx-text-fill:#ffffff;
+	-fx-font-size:14px;
+        -fx-font-width:0.5px;
+        -fx-border-color: #964349;
+        -fx-border-radius:50px;
+        -fx-backgroud-radius:50px;
+        -fx-padding:0px;
+        -fx-font-weight:700;
+        -fx-font-family:Calibri ;
+            
+}
+.combobox-color:hover{
+    -fx-text-fill:#ffffff;
+}
+.combobox-color-base:hover{
+    -fx-border-color: #964349;
+}
+.combobox-colo .list-view{
+    -fx-border-width:0.5px;
+    -fx-border-color: #964349;
+    -fx-padding:0px;
+    -fx-font-weight:700;
+    -fx-border-radius:10px 10px 0px 0px;
+    -fx-background-radius: 10px 10px 0px 0px;
+    
+}
+.combobox-colo .list-view .list  -ce:filled{
+    -fx-text-fill:#000;
+    -fx-font-size:12px;
+    -fx-font-weght:700;
+}
+.text-fill{
+    -fx-text-fill:#000000;
+	-fx-font-size:14px;
+        -fx-font-family:Garamond;
+            -fx-font-weight:bold;
+}
